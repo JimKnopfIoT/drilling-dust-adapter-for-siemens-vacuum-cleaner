@@ -14,5 +14,5 @@ Requirements:
 ![Example Case](iso1.jpg)
 ![Example Case](iso2.jpg)
 ![Example Case](side.jpg)
-![Example Case](photo_2019-07-21_16-03-58.jpg)
-![Example Case](photo_2019-07-21_16-04-02.jpg)
+![Example Case](photo_2019-07-21_16-03-58_.jpg)
+![Example Case](photo_2019-07-21_16-04-02_.jpg)
