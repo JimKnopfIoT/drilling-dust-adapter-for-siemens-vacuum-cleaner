@@ -11,8 +11,8 @@ Requirements:
 * Filament of your choice
 
 ## View
-![Example Case](iso1.jpg)
-![Example Case](iso2.jpg)
-![Example Case](side.jpg)
-![Example Case](photo_2019-07-21_16-03-58_.jpg)
-![Example Case](photo_2019-07-21_16-04-02_.jpg)
+<img src="iso1.jpg" width="500" align="center"> 
+<img src="iso2.jpg" width="500" align="center"> 
+<img src="side.jpg" width="500" align="center"> 
+<img src="photo_2019-07-21_16-03-58_.jpg" width="500" align="center"> 
+<img src="photo_2019-07-21_16-04-02_.jpg" width="500" align="center"> 
